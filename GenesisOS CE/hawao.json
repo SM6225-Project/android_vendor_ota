@@ -1,14 +1,14 @@
 {
-  "response": [
-    {
-      "datetime": 0,
-      "filename": "soon.zip",
-      "id": "0",
-      "size": 0,
-      "url": "<!-- soon... -->",
-      "version": "4.4 Verve",
-      "devicename": "Moto G42",
-      "maintainer": "Kultrinhaa_"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1773666862,
+            "filename": "GenesisOS-CE-4.4-Verve-hawao-OFFICIAL-2026.03.16.zip",
+            "id": "639183ff63530a3aa84bd2ea4e0890bbd5af7b7970096d7c95f6a7a6bc2bb0cd",
+            "size": 1850587694,
+            "url": "https://drive.serverhive.in/drive/ZV7ZjWrnM5yoA-cXflaNhq9f/hawao/2026-03-16/GenesisOS-CE-4.4-Verve-hawao-OFFICIAL-2026.03.16.zip",
+            "version": "CE 4.4 Verve",
+            "devicename": "Moto G42",
+            "maintainer": "Kultrinhaa_"
+        }
+    ]
 }

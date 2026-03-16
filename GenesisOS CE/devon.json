@@ -1,14 +1,14 @@
 {
-  "response": [
-    {
-      "datetime": 0,
-      "filename": "soon.zip",
-      "id": "0",
-      "size": 0,
-      "url": "<!-- soon... -->",
-      "version": "4.4 Verve",
-      "devicename": "Moto G32",
-      "maintainer": "Kultrinhaa_"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1773666862,
+            "filename": "GenesisOS-CE-4.4-Verve-devon-OFFICIAL-2026.03.16.zip",
+            "id": "6d9cecf7a7fa4f2e89ffafd6f930296675d5c8488bb31a7d8053aecd03203401",
+            "size": 1853636755,
+            "url": "https://drive.serverhive.in/drive/ZV7ZjWrnM5yoA-cXflaNhq9f/devon/2026-03-16/GenesisOS-CE-4.4-Verve-devon-OFFICIAL-2026.03.16.zip",
+            "version": "CE 4.4 Verve",
+            "devicename": "Moto G32",
+            "maintainer": "Kultrinhaa_"
+        }
+    ]
 }
