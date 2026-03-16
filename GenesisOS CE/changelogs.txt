@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: SM6225
+Device maintainer: Kultrinhaa_
+
+===== 16 March 2026 =====
+
+* Inital GenesisOS Community Edition build
+* Rsuntk KernelSU implemented
+* Moto Dolby Atmos implemented
