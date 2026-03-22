@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1774188542,
+            "datetime": 1774209455,
             "filename": "axion-2.4-SOLACE-20260322-UNOFFICIAL-VANILLA-rhode.zip",
-            "id": "0b223f14ce89cdcb22f527fd63fe1a9c",
+            "id": "1af09b397e84bcfdb382491845fb1b73",
             "romtype": "UNOFFICIAL",
-            "size": 1419356472,
-            "url": "https://drive.serverhive.in/drive/ZV7ZjWrnM5yoA-cXflaNhq9f/rhode/2026-03-22/axion-2.4-SOLACE-20260322-UNOFFICIAL-VANILLA-rhode.zip",
+            "size": 1424179601,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/2.4/axion-2.4-SOLACE-20260322-UNOFFICIAL-VANILLA-rhode.zip",
             "version": "2.4"
         }
     ]
