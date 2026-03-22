@@ -1,0 +1,41 @@
+Device: Motorola G42
+Current version: 2.4 (final)
+Chipset Family: SM6225
+Buildtype: Unofficial
+Maintainer: Kultrinhaa_
+
+--- AxionOS 2.3 ---
+
+- Initial AxionOS 2.3
+
+--- AxionOS 2.4 ---
+
+- Initial AxionOS 2.4
+- Rsuntk KernelSU implemented
+
+# The beginning of "my" versions
+
+--- AxionOS 2.4.1 ---
+
+- Moto Camera 4 implemented
+- ViperFX removed
+
+--- AxionOS 2.4.2 ---
+
+- Moto Dolby Atmos implemented
+- Moto Camera 4 removed (Reason: conflict with Moto Dolby Atmos)
+
+# The end of "my" versions
+
+--- AxionOS 2.4 final ---
+
+- OTA Support implemented
+- LunarisDolby implenmented
+- Moto Camera 4 implemented
+
+--- AxionOS 2.5 ---
+
+- Big AxionOS update!
+- LunarisDolby implemented
+- Moto Camera 4 implemented
+- Replaced KernelSU driver from Rsuntk to Backslashxx
